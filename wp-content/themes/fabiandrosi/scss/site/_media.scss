@@ -1,0 +1,59 @@
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+
+}
+@media all and (max-width: 639px) {
+	.email-signup, .social-media {
+		text-align: center !important;
+	}
+	.social-media {
+		margin-bottom: 30px;
+	}
+	.email-signup {
+		margin-top: 30px;
+	}
+	.social-media .contact-text {
+		display: none;
+	}
+	.logo {
+		padding: 20px 45px 15px;
+	}
+	p.tagline {
+		margin: 15px 0 0;
+		line-height: 1.2;
+	}
+	#homepage-hero {
+		padding: 20px 0;
+	}
+	.title-banner {
+		padding: 15px;
+		margin-bottom: 15px;
+	}
+	.page-container {
+		margin-bottom: 20px;
+	}
+}
+@media all and (max-width: 849px) {
+	footer h2 {
+		font-size: rem-calc(18);
+		line-height: 1.5;
+	}
+	.plus {
+		top: 3px;
+		position: relative;
+	}
+	.top-bar-section ul li>a {
+		font-size: rem-calc(15);
+	}
+	.top-bar-section li:not(.has-form) a:not(.button){
+		padding: 0 8px;
+	}
+}
+@media all and (max-width: 1024px) {
+
+}
+@media all and (min-width: 1025px) {
+
+}
+@media all and (max-width: 1139px) {
+
+}

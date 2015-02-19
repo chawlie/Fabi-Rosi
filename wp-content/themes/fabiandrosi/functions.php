@@ -29,4 +29,6 @@ require_once('library/enqueue-scripts.php');
 // Add theme support
 require_once('library/theme-support.php');
 
+// Add Button Shortcodes
+require_once('library/button-shortcode.php');
 ?>
